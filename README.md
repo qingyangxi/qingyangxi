@@ -6,4 +6,4 @@ This is **Zhenyang Fan**.
 
 - :sparkles: I'm passionate about exploring anything **cute or cool** in the world! e.g. animes XD.
 
-- :mailbox_closed: You've spotted a wild code wizard in training! Feel free to say hi!
+- :mailbox_closed: You've spotted a wild code wizard in training! **Feel free to say hi**!
