@@ -1,6 +1,6 @@
 ### Hi there / 你好 / Ciallo～(∠・ω< )⌒★ !
 
-This is **Zhenyang Fan**. 
+This is **Zhenyang Fan**. <img width="220" align="right" src="hook.gif"/>
 
 - :school: I'm currently a **Software Engineering** student at **Harbin Institute of Technology, Weihai**.
 
